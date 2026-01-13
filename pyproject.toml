@@ -1,0 +1,10 @@
+[project]
+name = "surf_comp_viz"
+version = "0.1.0"
+description = "Project to explor CV and surf conditions"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "pillow>=11.3.0"
+]
